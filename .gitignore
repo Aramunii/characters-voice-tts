@@ -74,3 +74,6 @@ typings/
 
 # FuseBox cache
 .fusebox/
+teste.txt
+teste.js
+*.mp3

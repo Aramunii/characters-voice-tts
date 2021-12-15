@@ -1,0 +1,25 @@
+{
+  "name": "characters-voice-tts",
+  "version": "1.0.0",
+  "description": "a simple client to download a mp3 file with TTS with your favorite character",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "characters-voice-tts"
+  },
+  "keywords": [
+    "characters",
+    "voice",
+    "tts",
+    "ia"
+  ],
+  "author": "aramunii",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "fs": "^0.0.1-security"
+  }
+}
